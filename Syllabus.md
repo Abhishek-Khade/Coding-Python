@@ -32,6 +32,7 @@ This is the **most heavily tested** area — data engineers manipulate large, ne
 
 - Lists, Tuples, Sets, Dictionaries — internal working & complexity (Big-O) ⭐
 - List/Dict/Set comprehensions ⭐
+- Slicing and Dicing Operations on Data structures
 - `collections` module: `defaultdict`, `Counter`, `OrderedDict`, `namedtuple`, `deque` ⭐
 - Nested data structures (list of dicts, dict of lists) — common in JSON/API data
 - Sorting with `key=` and `lambda`
